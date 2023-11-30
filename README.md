@@ -35,12 +35,8 @@ Welcome to the Movie Prediction Analysis Project! This project focuses on predic
 ## Usage
 
 1. Open the Jupyter Notebook: `jupyter notebook`
-2. Navigate to the `analysis.ipynb` file
+2. Navigate to the `.ipynb_checkpoints/movie_prediction_model-checkpoint.ipynb.` file
 3. Run each cell to perform the analysis and build the machine learning model.
-
-## Contributing
-
-We welcome contributions! If you'd like to contribute, please follow our [Contribution Guidelines](CONTRIBUTING.md).
 
 ## License
 
