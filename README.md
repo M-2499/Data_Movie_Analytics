@@ -28,8 +28,8 @@ Welcome to the Movie Prediction Analysis Project! This project focuses on predic
 
 - **Python for Data Manipulation and Analysis:**
   - We utilized Python, along with popular data science libraries such as Pandas and NumPy, for data manipulation, analysis, and model building. These Jupyter Notebooks contain our Python-based analysis.:
-  -  .ipynb_checkpoints/movie_prediction_model-checkpoint.ipynb
-  -  .ipynb_checkpoints/movie_prediction_model_(ultimate_film_stats)-checkpoint.ipynb  
+  -  movie_prediction_model.ipynb
+  -  movie_prediction_model_(ultimate_film_stats).ipynb  
 
 - **Tableau for Visualizations:**
   - Tableau was employed for creating interactive and insightful visualizations based on the analyzed data. You can explore our Tableau visualizations [here](https://public.tableau.com/app/profile/joel.johnson6608/viz/Group1FinalProject_17011356172600/Movies?publish=yes).
@@ -37,7 +37,7 @@ Welcome to the Movie Prediction Analysis Project! This project focuses on predic
 ## Usage
 
 1. Open the Jupyter Notebook: `jupyter notebook`
-2. Navigate to the `movie_prediction_model-checkpoint.ipynb.` file
+2. Navigate to the `movie_prediction_model.ipynb` file
 3. Run each cell to perform the analysis and build the machine learning model.
 
 ## License
